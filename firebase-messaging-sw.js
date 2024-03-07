@@ -8,13 +8,13 @@ importScripts("https://www.gstatic.com/firebasejs/8.10.1/firebase-messaging.js")
 // your app's Firebase config object.
 // https://firebase.google.com/docs/web/setup#config-object
 firebase.initializeApp({
-    apiKey: "AIzaSyCFBhdQUVNZbJ6MYtpbN-uie2YhenVGVZc",
-    authDomain: "my-safesay.firebaseapp.com",
-    projectId: "my-safesay",
-    storageBucket: "my-safesay.appspot.com",
-    messagingSenderId: "1091024668441",
-    appId: "1:1091024668441:web:510e20b9e461b891b92788",
-    // measurementId: "G-L5HTRYKJ8E",
+    apiKey: "AIzaSyDRW88ThMD_Oqse2gDHoDOmuI90-8jQI2o",
+    authDomain: "talkod-backend.firebaseapp.com",
+    projectId: "talkod-backend",
+    storageBucket: "talkod-backend.appspot.com",
+    messagingSenderId: "384579638016",
+    appId: "1:384579638016:web:b4bb289ebe72d26ad0d9e5",
+    measurementId: "G-TJQTGN6QPG",
 });
 
 // Retrieve an instance of Firebase Messaging so that it can handle background
