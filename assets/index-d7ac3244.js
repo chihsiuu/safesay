@@ -6197,7 +6197,7 @@ const Hu = (e, t) => {
                         }),
                         "serviceWorker" in navigator
                             ? window.navigator.serviceWorker
-                                  .register("/firebase-messaging-sw.js")
+                                  .register("/safesay/firebase-messaging-sw.js")
                                   .then(
                                       function (i) {
                                           const o = "SEND NOTIFICATION FROM CLICK EVENT",
